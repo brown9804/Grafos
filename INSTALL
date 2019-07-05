@@ -1,0 +1,7 @@
+Grafos en Python
+
+License Apache 2.0
+
+
+Se distribuye un Makefile:
+    * build: interpreta el código.
